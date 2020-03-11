@@ -1,5 +1,6 @@
 # PyRaMD
 Python ReseArch Molecular Dynamics (pronounced Pyramid)
+
 Written By: Amro Dodin (Willard Group - MIT Department of Chemistry)
 
 ## Purpose
