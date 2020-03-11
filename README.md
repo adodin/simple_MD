@@ -1,3 +1,4 @@
+![Build Status](https://github.com/adodin/PyRaMD/workflows/Python%20package/badge.svg)
 # PyRaMD
 Python ReseArch Molecular Dynamics (pronounced Pyramid)
 
